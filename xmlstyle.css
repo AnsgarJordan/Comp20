@@ -1,0 +1,42 @@
+/*
+ *	xmlstyle.css
+ *  By: Ansgar Jordan
+ *  Date: 2/10/20
+ *  Assignment 4 - XML Practice
+ *  Purpose: stylesheet for XML file
+ */
+
+
+SetList{
+	color: black;
+	background-color:lightgray;
+	width: 90%;
+}
+SongNumber{
+	color: brown;
+}
+
+artist{
+	display: block;
+	font-size: x-large;
+	color: black;
+}
+title{
+	display:block;
+	font-size:larger;
+	color: brown;
+
+}
+genre{
+	display:none;
+}
+year{
+	display:block;
+	font-size:larger;
+}
+heading{
+	font-size:xx-large;
+	border: 2px solid black;
+	font-color: black;
+	background-color: white;
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xmlstyle.css"?>
+
+<SetList>
+	<heading> Rock Songs </heading>
+	<SongNumber>
+		<artist> Artist: The Rolling Stones </artist>
+		<title> Title: Gimme' Shelter </title>
+		<genre> Rock </genre>
+		<year> Year: 1969 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: The Beatles </artist>
+		<title> Title:  Penny Lane </title>
+		<genre> Rock </genre>
+		<year> Year: 1967 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: Dire Straits </artist>
+		<title> Title: Sultans of Swing </title>
+		<genre> Rock </genre>
+		<year> Year: 1978 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: Toto </artist>
+		<title> Title: Hold the Line </title>
+		<genre> Rock </genre>
+		<year> Year: 1978 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: Queen </artist>
+		<title> Title: Bohemian Rhapsody </title>
+		<genre> Rock </genre>
+		<year> Year: 1975 </year>
+	</SongNumber>
+	<heading> Classical Songs </heading>
+	<SongNumber>
+		<artist> Artist: Johann Sebastian Bach </artist>
+		<title> Title: Brandenburger Concerto no. 3 in G Major </title>
+		<genre> Classical </genre>
+		<year> Year: 1721 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: Wolfgang Amadeus Mozart </artist>
+		<title> Title: Requiem in D-Minor </title>
+		<genre> Classical </genre>
+		<year> Year: 1791 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: Ludwig van Beethoven </artist>
+		<title> Title: Pastoral Symphony </title>
+		<genre> Classical </genre>
+		<year> Year: 1808 </year>
+	</SongNumber>
+	<heading> Country Songs </heading>
+	<SongNumber>
+		<artist> Artist: John Denver </artist>
+		<title> Title: Take Me Home, Country Roads </title>
+		<genre> Country </genre>
+		<year> Year: 1971 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: Zac Brown Band </artist>
+		<title> Title: Jump Right In </title>
+		<genre> Country </genre>
+		<year> Year: 2012 </year>
+	</SongNumber>
+	<heading> Pop Songs </heading>
+	<SongNumber>
+		<artist> Artist: Matoma </artist>
+		<title> Title: Sunday Morning </title>
+		<genre> Pop </genre>
+		<year> Year: 2018 </year>
+	</SongNumber>
+	<SongNumber>
+		<artist> Artist: Maroon 5 </artist>
+		<title> Title: Memories </title>
+		<genre> Pop </genre>
+		<year> Year: 2019 </year>
+	</SongNumber>
+
+</SetList>
